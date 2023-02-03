@@ -1,6 +1,6 @@
 
 <h1 align="center"> Hi👋 I am Aditya Bhaumik </h1>
-<h3 align="center">A passionate computer science student in India</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&duration=3000&pause=1000&color=11F791&background=3BFFFD00&vCenter=true&lines=+I+am+a+passionate+learner+;Web+developer;Machine+learning+engineer;Learning+new+skills+everyday" alt="Typing SVG" /></a>
 <img align="right" alt="coding" width:"400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ### Connect with me 
@@ -19,4 +19,9 @@
 <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" width="70">
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" width="70">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" width="70">
-
+<hr>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-bhaumik&label=Profile%20views&color=lightgrey&style=plastic" alt="aditya" /> </p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-bhaumik&theme=highcontrast" alt="aditya" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya-bhaumik&show_icons=true&theme=radical&title_color=d98504&text_color=f7a423&hide_border=true&locale=en&layout=compact" alt="aditya" /></p>
+<hr>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=aditya-bhaumik&show_icons=true&theme=radical&title_color=efa722&text_color=f7ab28&hide_border=true&locale=en" alt="aditya" /></p>

@@ -26,6 +26,6 @@
 ### Github stats
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-bhaumik&theme=highcontrast" alt="aditya" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=aditya-bhaumik&show_icons=true&theme=radical&title_color=efa722&text_color=f7ab28&hide_border=true&locale=en" alt="aditya" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya-bhaumik&show_icons=true&theme=radical&title_color=d98504&text_color=f7a423&hide_border=true&locale=en&layout=compact" alt="aditya" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-bhaumik&theme=dracula)" alt="aditya" /></p>
 
 

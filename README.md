@@ -28,4 +28,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=aditya-bhaumik&show_icons=true&theme=radical&title_color=efa722&text_color=f7ab28&hide_border=true&locale=en" alt="aditya" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-bhaumik&theme=dracula)" alt="aditya" /></p>
 
-
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Aditya's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=aditya-bhaumik&bg_color=1F222E&color=add8e6&line=ADD8E6&point=#000080&hide_border=true" /></a>

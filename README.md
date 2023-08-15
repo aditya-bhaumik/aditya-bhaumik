@@ -1,6 +1,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&duration=3000&pause=1000&color=11F791&background=3BFFFD00&vCenter=true&lines=+I+am+a+passionate+learner+;Web+developer;Machine+learning+engineer;Learning+new+skills+everyday" alt="Typing SVG" /></a>
-<img align="right" alt="coding" width:"400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+<img align="right" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ### Connect with me 
 <p align="left">
@@ -23,8 +24,8 @@
 <hr>
 
 ### Github stats
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-bhaumik&theme=highcontrast" alt="aditya" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=aditya-bhaumik&show_icons=true&theme=radical&title_color=efa722&text_color=f7ab28&hide_border=true&locale=en" alt="aditya" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-bhaumik&theme=blue-green"  alt="aditya" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-bhaumik&theme=highcontrast" alt="aditya" env="PAT_1" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=aditya-bhaumik&show_icons=true&theme=radical&title_color=efa722&text_color=f7ab28&hide_border=true&locale=en" alt="aditya" env="PAT_1" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-bhaumik&theme=blue-green"  alt="aditya" env="PAT_1"/></p>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Aditya's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=aditya-bhaumik&bg_color=1F222E&color=add8e6&line=ADD8E6&point=#000080&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Aditya's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=aditya-bhaumik&bg_color=1F222E&color=add8e6&line=ADD8E6&point=#000080&hide_border=true&env=PAT_1" env="PAT_1" /></a>

@@ -1,5 +1,4 @@
-<p><img src="https://media.licdn.com/dms/image/D4D16AQFLysqs4oTdVA/profile-displaybackgroundimage-shrink_350_1400/0/1675442148330?e=1680739200&v=beta&t=U-bja3F9F3sVafE5s5k6vZlGl990W42hxukvMIlD7hY">
-<hr>
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&duration=3000&pause=1000&color=11F791&background=3BFFFD00&vCenter=true&lines=+I+am+a+passionate+learner+;Web+developer;Machine+learning+engineer;Learning+new+skills+everyday" alt="Typing SVG" /></a>
 <img align="right" alt="coding" width:"400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 

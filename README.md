@@ -20,7 +20,6 @@
 <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" width="70">
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" width="70">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" width="70">
-
 <hr>
 
 ### Github stats
@@ -28,4 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=aditya-bhaumik&show_icons=true&theme=radical&title_color=efa722&text_color=f7ab28&hide_border=true&locale=en" alt="aditya" env="PAT_1" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-bhaumik&theme=blue-green"  alt="aditya" env="PAT_1"/></p>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Aditya's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=aditya-bhaumik&bg_color=1F222E&color=add8e6&line=ADD8E6&point=#000080&hide_border=true&env=PAT_1" env="PAT_1" /></a>

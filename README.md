@@ -1,6 +1,10 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&duration=3000&pause=1000&color=11F791&background=3BFFFD00&vCenter=true&lines=+I+am+a+passionate+learner+;Web+developer;Machine+learning+engineer;Learning+new+skills+everyday" alt="Typing SVG" /></a>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya-bhaumik" alt="aditya-bhaumik" /></a> </p>
+----------------------------------
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=aditya-bhaumik&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
+---------------------------
 <img align="right" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ### Connect with me 
@@ -22,7 +26,13 @@
 <hr>
 
 ### Github stats
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-bhaumik&theme=highcontrast" alt="aditya" env="PAT_1" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=aditya-bhaumik&show_icons=true&theme=radical&title_color=efa722&text_color=f7ab28&hide_border=true&locale=en" alt="aditya" env="PAT_1" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-bhaumik&theme=blue-green"  alt="aditya" env="PAT_1"/></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-bhaumik&theme=tokyonight" alt="aditya" env="PAT_1" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=aditya-bhaumik&show_icons=true&theme=tokyonight&title_color=efa722&text_color=f7ab28&hide_border=true&locale=en" alt="aditya" env="PAT_1" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-bhaumik&theme=tokyonight"  alt="aditya" env="PAT_1"/></p>
+----------------------------------
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=aditya-bhaumik&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+
+---------------------------------

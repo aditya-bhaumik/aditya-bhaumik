@@ -10,7 +10,6 @@
 ### Connect with me 
 <p align="left">
 <a href="https://www.linkedin.com/in/aditya-bhaumik-62b6b2220/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Aditya Bhaumik"  /></a>
-<a href="https://instagram.com/codingarea1?igshid=ZDdkNTZiNTM=" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="coding area" /></a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-bhaumik&label=Profile%20views&color=lightgrey&style=plastic" alt="aditya" /> </p>
 <hr>

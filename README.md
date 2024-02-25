@@ -39,3 +39,5 @@
 
 
 ---------------------------------
+
+<img src="https://raw.githubusercontent.com/aditya-bhaumik/aditya-bhaumik/output/snake.svg" alt="Snake animation" />

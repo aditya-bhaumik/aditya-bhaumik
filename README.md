@@ -40,4 +40,4 @@
 
 ---------------------------------
 
-<img src="https://raw.githubusercontent.com/aditya-bhaumik/aditya-bhaumik/output/snake.svg" alt="Snake animation" />
+![snake animation](https://github.com/<seu aditya-bhaumik>/<seu aditya-bhaumik>/blob/output/github-contribution-grid-snake2.svg)

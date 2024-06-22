@@ -27,13 +27,13 @@
 <hr>
 
 ### Github stats
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-bhaumik&theme=tokyonight" alt="aditya" env="PAT_1" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=aditya-bhaumik&show_icons=true&theme=tokyonight&title_color=efa722&text_color=f7ab28&hide_border=true&locale=en" alt="aditya" env="PAT_1" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-bhaumik&theme=tokyonight"  alt="aditya" env="PAT_1"/></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-bhaumik&theme=radical" alt="aditya" env="PAT_1" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=aditya-bhaumik&show_icons=true&theme=radical&title_color=efa722&text_color=f7ab28&hide_border=true&locale=en" alt="aditya" env="PAT_1" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-bhaumik&theme=radical"  alt="aditya" env="PAT_1"/></p>
 ----------------------------------
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aditya-bhaumik&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=aditya-bhaumik&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 
 ---------------------------------

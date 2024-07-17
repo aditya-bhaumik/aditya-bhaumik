@@ -38,4 +38,3 @@
 
 ---------------------------------
 
-![Share Badge](https://github.com/user-attachments/assets/42653e5a-3ea5-4fa7-8ab9-9c4b67460c5a)

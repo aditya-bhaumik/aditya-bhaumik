@@ -29,17 +29,6 @@
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" width="70">
 <hr>
 
-
-     
-
-### Github stats
-
-----------------------------------
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aditya-bhaumik&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-
 ---------------------------------
 
 ## GSSOC(24) Badges 🪶

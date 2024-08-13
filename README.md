@@ -29,19 +29,11 @@
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" width="70">
 <hr>
 
-<summary><b>⚙️GitHub Analytics</b></summary>
-<a href="https://github.com/aditya-bhaumik">
-   <img height="155em" src="https://raw.githubusercontent.com/aditya-bhaumik/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Aditya Bhaumik github stats" />
-   <img height="155em" src="https://raw.githubusercontent.com/aditya-bhaumik/github-card-template/master/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Aditya Bhaumik github stats" />
- <img height="155em" src="https://raw.githubusercontent.com/aditya-bhaumik/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Aditya Bhaumik github stats" />
-  <img height="155em" src="https://raw.githubusercontent.com/aditya-bhaumik/github-card-template/master/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Aditya Bhaumik github stats" />
-   <img height="160em" src="https://raw.githubusercontent.com/aditya-bhaumik/github-card-template/master/profile-summary-card-output/github_dark/4-productive-time.svg" /><br>
+
      
 
 ### Github stats
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-bhaumik&theme=radical" alt="aditya" env="PAT_1" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=aditya-bhaumik&show_icons=true&theme=radical&title_color=efa722&text_color=f7ab28&hide_border=true&locale=en" alt="aditya" env="PAT_1" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-bhaumik&hide=jupyter%20notebook&theme=radical"  alt="aditya" env="PAT_1" /></p>
+
 ----------------------------------
 
 ### 🔝 Top Contributed Repo
@@ -62,3 +54,12 @@
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="105px" height="105px" />
 </a>
 </div>
+
+---------------------------------
+
+<summary><b>⚙️GitHub Analytics</b></summary>
+
+<a href="https://github.com/aditya-bhaumik">
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-bhaumik&theme=radical" alt="aditya" env="PAT_1" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=aditya-bhaumik&show_icons=true&theme=radical&title_color=efa722&text_color=f7ab28&hide_border=true&locale=en" alt="aditya" env="PAT_1" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-bhaumik&hide=jupyter%20notebook&theme=radical"  alt="aditya" env="PAT_1" />

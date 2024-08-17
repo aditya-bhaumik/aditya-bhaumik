@@ -1,6 +1,9 @@
 ![github-header-image](https://github.com/user-attachments/assets/8a1f4da8-5970-4cd2-9077-185041920c7f)
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&duration=3000&pause=1000&color=11F791&background=3BFFFD00&vCenter=true&lines=+I+am+a+passionate+learner+;Web+developer;Machine+learning+engineer;Learning+new+skills+everyday" alt="Typing SVG" /></a>
 ----------------------------------
+
+<iframe src="https://github.com/sponsors/aditya-bhaumik/button" title="Sponsor aditya-bhaumik" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=aditya-bhaumik&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -49,3 +52,6 @@
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-bhaumik&theme=radical" alt="aditya" env="PAT_1" />
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=aditya-bhaumik&show_icons=true&theme=radical&title_color=efa722&text_color=f7ab28&hide_border=true&locale=en" alt="aditya" env="PAT_1" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-bhaumik&hide=jupyter%20notebook&theme=radical"  alt="aditya" env="PAT_1" />
+
+
+

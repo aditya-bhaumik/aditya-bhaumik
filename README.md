@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&duration=3000&pause=1000&color=11F791&background=3BFFFD00&vCenter=true&lines=+I+am+a+passionate+learner+;Web+developer;Machine+learning+engineer;Learning+new+skills+everyday" alt="Typing SVG" /></a>
 ----------------------------------
 
-<iframe src="https://github.com/sponsors/aditya-bhaumik/button" title="Sponsor aditya-bhaumik" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+
 
 ## 🏆 GitHub Trophies
 

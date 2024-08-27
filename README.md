@@ -47,9 +47,28 @@
 <summary><b>⚙️GitHub Analytics</b></summary>
 
 <a href="https://github.com/aditya-bhaumik">
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-bhaumik&theme=radical" alt="aditya" env="PAT_1" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=aditya-bhaumik&show_icons=true&theme=radical&title_color=efa722&text_color=f7ab28&hide_border=true&locale=en" alt="aditya" env="PAT_1" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-bhaumik&hide=jupyter%20notebook&theme=radical"  alt="aditya" env="PAT_1" />
+<table width="100%" align="center">
+<tr>
+<td>
+<img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditya-bhaumik&theme=radical" alt="Profile Summary">
+</td>
+</tr>
+</table>
+
+
+
+<table width="100%" align="center">
+<tr>
+<td>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=aditya-bhaumik&show_icons=true&locale=en&theme=radical" alt="GitHub Stats"/>
+</td>
+<td>
+  <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-bhaumik&theme=radical" alt="Streak Stats"/>
+</td>
+</tr>
+</table>
+<br>
+
 
 
 

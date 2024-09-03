@@ -7,7 +7,6 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=aditya-bhaumik&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-
 ---------------------------
 <img align="right" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 

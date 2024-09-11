@@ -49,6 +49,7 @@
 
 ---------------------------------
 
+<details>
 <summary><b>⚙️GitHub Analytics</b></summary>
 
 <a href="https://github.com/aditya-bhaumik">
@@ -70,5 +71,7 @@
 </tr>
 </table>
 <br>
+
+</details>
 
 

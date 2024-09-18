@@ -50,8 +50,8 @@
 
 ---------------------------------
 
-<details>
-<summary><h2>⚙️GitHub Analytics</h2></summary>
+
+<h2>⚙️GitHub Analytics</h2>
 
 <a href="https://github.com/aditya-bhaumik">
 <table width="100%" align="center">
@@ -73,6 +73,5 @@
 </table>
 <br>
 
-</details>
 
 

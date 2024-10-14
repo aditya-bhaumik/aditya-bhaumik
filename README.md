@@ -3,8 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&duration=3000&pause=1000&color=11F791&background=3BFFFD00&vCenter=true&lines=+I+am+a+passionate+learner+;Web+developer;Machine+learning+engineer;Learning+new+skills+everyday" alt="Typing SVG" /></a>
 
 ----------------------------------
-<details>
-<summary><h2>🏆 GitHub Trophies</h2></summary><br>
+<h2>🏆 GitHub Trophies</h2><br>
 
 ![](https://github-profile-trophy.vercel.app/?username=aditya-bhaumik&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
